@@ -49,4 +49,5 @@ void main()
 	}
 	printf("total waiting time=%d\navg waiting time=%f",totwt,avgwt);
 	getch();
+	
 }		
